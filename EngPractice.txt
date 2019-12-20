@@ -601,7 +601,58 @@ In her friendship circle, " good first dates" that don't lead to anything more s
 
 Meanwhile meeting an unattached millennial who has never used a dating app is like searching for a needle in a haystack, but they do exist.
 
+---------------------------------
+108/12/20 Fri.
 
+* Why is Sweden departing talented tech workers?
+
+¡iRetaining highly-skilled foreign workers is essential for countries Sweden. But as a deported worker sues the state, the tech-savvy nation's rejection record is in the spotlight. By Maddy Savage, 17th December 2019.
+
+He'd bought an apartment and a car, taken Swedish lessons, signed his toodler up for daycare and even improved his skiing to embrace the frozen temperatures. Yet more than three years after his family arrived in Sweden and despite his well-paid senior position at one of its most prestigious power and technology companies, Ali Omumi was asked to leave the country.
+
+"For me it was a huge frustration, for my wife it was the beginning of a deep depression," laments the engineering sales specialist, who is originally from Iran.
+
+Omumi, then 38, was given a final deportation order in 2018, after unsuccessfully appealing decision by the Swedish Migration Agency. Officials denied his application for a work permit extension based on an administrative mistake made by a software company he'd previously been employed by, which had failed to provide the correct insurances.
+
+"Deportation gave me the feeling: I am a criminal' - while I know I am not. I came to work and pay taxes, and I brought my experience and money."
+
+Swden's talent shortage
+
+Sweden has a shortage of qualified graduates in subjects including engineering and programming, meaning employers are increasingly looking beyond national and EU borders in order to plug vacancies. Thousnands of skilled foreign workers move to the Nordic country each year and many decide they wnay to stay, thanks to a relatively strong economy and a high quality of life.
+
+Work permits - required for non-EU workers - are initially linked to a specific job, but those wish to move companies can start new roles while they are waiting for their visa extensions to be processed. Yet hundreds of non-EU Workers like Ali have had their extension applications rejected on the basis of minor administrative mistakes made by former employers during their residency.
+
+Alongside insurance issues, other errors that have led to deportation include incorrect pension payments, taking too little or too much holiday, or even scoring a job via LinkedIn that wasn't advertised by the Swedish Public Employment Service.
+
+Swedes call these deportations kompetensutivising, which means the "expulsion of someone who has skills required in the labour market", and the issue is a long-running hot topic, expecially in its fast-expanding tech-scene. One Pakistani developer's deportation in 2016 sparked a petition signed by more than 10,000 people including Spotify's cofounder Daniel Ek, who later admitted that 15 of his company's top hires had been threa threatened with deportation.
+
+*Many people...feel insecure about the legal system in Sweden. -Alexandra Loyd
+
+Earlier this year the Stockholm Chamber of Commerce werned that the trend could damage the Swedish capital's econmy, while a local branch of Startup Grind, the world's largest independent start-up community organisation, held an event called Keep The Talent to protest against Sweden "dreining international talent". In March, the results of a major survey for The Diversify Foundation, a not-for-profit organisation which campaigns for a more inclusive labout market, found that 81% of non-EU workers who responded said their health or their family's health had been affected by the threat of deportation. Nearly  70% said they would not recommend Sweden as destination for foreign workers.
+
+"We think that it has been harmful for Sweden's international reputation," says Alexandra Loyd, a lawyer for Centrum for Rattvisa, a not-for-profit public interest law firm which represents some of the affected workers. "Many people - workers or employers that are in contact with us - feel insecure about the legal system in Sweden."
+
+The root of the  problem, she argues, is the Swedish Migration Agency's strict interpretation of a 2015 ruling made by the Migration Court of Appeal, which said that permits should not be extended feor workers whose emploitation by dishonest employers.
+
+This is a cornerstone of working culture in Sweden, which has a long history of strong unions and strict agreements designed to protect employee's rights.
+
+However, it's resulted in a spell of deportations of sought-after talent based on small adminsitrative errors. In 2017, more than 1,800 people had their work permit renewals rejected, although it is not possible to break down exactly how many of these were due to minor mistakes.
+
+Limited progress
+
+The situation has improved over the past two years, in part thanks to an amendment in the law, which allows employers to correct errors retroactively. Meanwhile a fresh decision by the Migration Court of Appeal in December 2017 ruled that there should be an "overall assessment" of each applicant's case in order to make more proportionate decisions, instead of automatically issuing rejections based on minor errors.
+
+Per Ek, a spokesman for the agency, says he understands that some foreign workers end up "in a very difficult situation" if their visas are declined. But he insists that "overall assessment" method is largely "working quite smoothly" to limit the expulsions of skilled workers, while at the same time staying true to earlier legislation designed to protece workers across all industries.
+
+" We are here for one clear reason. We have to make sure that the legislation or the lawe are fulfilled... and we are trying our best to inform everyone who's coming here, in different kind of languages - in English for sure - on what kind of languages - Englis for sure - on what kind of rules or requirements need to be fulfilled."
+
+¡iI hope this lawsuit will push decision makers to design better legislation - Ali Omum¡j
+
+So far, 550 people have had their work permits rejected in 2019, including around 50 working in skilled IT and programming roles, significantly fewer than in 2018 and 2017.
+
+However lawyer Alexandra Loyd believes the agency still has the tendency to "stick to the rules" -rejecting cases where there is no legal precedent and waiting for these to be appealed in the courts, rather than looking at the bigger picture at the start of each visa renewal process. "There is a lack of foreseeability in the system and in the decisions form the Migration Agency," she argues.
+
+Sales enginnering Ali Omumi is now back in Sweden where he has taken on a new role with former employer ABB. But securing his return was a long process. The Iranian temporarily relocated to Istanbul with his family while he looked for new opportunities in Sweden and elsewhere in northern Europe. He initially rented out the family's home, but was soon forced to sell it at below the market rate, after being being told he had hiring out their properties unless they have moved because of work, studies, sickness or to live with a partner or other relatives, none of which applied to Omumi.
 
 
 
