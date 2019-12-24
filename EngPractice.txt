@@ -756,17 +756,46 @@ Early on, waiting to begin his voyage to Treasure Island, Stevenson's protagonis
 
 My own jounery to Unst was easy. In the Shetlandic capital of Lerwick, where I'd disembarked after an overnight ferry Aberdeen, I boarded a bus and was delivered to my destination two and a half hours later. Shetland may be sparsely populated, but it has an extensive bus network that efficiently links up with its ferries. After leaving my bag at a youth hostel that occupies an old Royal Air Force station, I set out on foot for Hermaness National Nature Reserve. Scottish Natural Heritage, the public body that manages the reserve, describes Hermaness in summer as "the New York of the seabird world:a noisy, bustling and often smelly metropolis that is home to more than 100,000 bredding seabirds".
 
+---------------------------------
+108/12/24 Tue.
 
+*The trick that makes you overspend.
 
+¡iEmploying the "decoy effect" could bend others to your will, improvement your finances, and more. By David Robson, 2nd August 2019.
 
+As we head into 2020, we're running the best, most insightful and most essential Worklife stories from 2019. Read all of the year's biggest hits here.
 
+When you buy a cup of coffee, you might have noticed that of the three size options - small, medium and large - the medium-sized serving often costs almost as much as the large. Given the apparent bargain, have you ever opted for the biggest and most expensive option ?
 
+If so, you have been nudged by a cognitive bias known as the "decoy effect", in which the deliberate presentation of an additional, slightly less attractive option - in this case, the relatively expensive medium-sized coffee - pushes you to pay out more money than you would have rationally chosen. "If you frame options in a certain way, you can nudge people in the direction of higher-priced products," says Linda Chang, a psychologist at Harvard University.
 
+The decoy effect was firsr invetigated as a potential marketing strategy to influence consumer choices such as this, but the latest research shows that it could also have potent effects in recruitment, healthcare, even politics. It shows us just how easily our judgement is swayed by the context in which the facts are presented - even when that additional information may have no bearing on the overall judgement.
 
+By learning about the decoy effect, you may become less susceptible to this unconscious influence. You may even discover ways to put it to your own use as a tool for persuasion.
 
+Like many of the now infamous cognitive biases that plague our thinking, the decoy effect was first documented in the 1980s, and the best way to understand there experiments is to consider an example.
 
+Imagine you are choosing flights from the following options.
 
+Logically speaking, that makes no sense: B should be no more attractive now than in the first example because the waiting time and price are still exactly the same. But the change in Flight C - to have an even longer stopover - has altered the way the participants perceived the other possibilities, so that now they preferred to suffer a longer waiting time for a cheaper price.
 
+In each case, Flight C - "the decoy" - was designed to appear similar to, but slightly less attractive than one of the other options (the "target"). And that comparison boosts the target's perceived desirability. Experiments examming choices such as these have found the use of a well-designed decoy such as this can shift opinion between the other two options by as much as 40% - showing just how easily our decisions can be swayed by the way they are framed.
+
+Crucially, as the first scenario shows, this placement of a dud option can even mean that the consumer is willing to pay more money - making the decoy effect of very keen interest to marketers.
+
+Psychologists still debate the exact reasons for this particular effect, but one idea is that the comparison with the decoy offers us an easy justification for an otherwise arbitrary decision. If you were to compare just A and B, it's hard to known exactly how to appraise the trade-offs between cost and waiting time - how to appraise the trade-offs between cost and waiting time - how much money is 90 minutes' extra wait really worth? But if one option is obviously better than the decoy - Flight C - on one of those measures, you have a ready-made reason to explain your preference.
+
+These patterns of behaviour have been observed for many different kinds of goods - from beer to TVs, cars and houses: an unattractive third option changes people's preferences between the two other possibilities.
+
+In his book, Predictably Irrational, Dan Ariely described how The Economist uses a decoy effect to encourage readers to opt for a more expensive subscription for just %59, a print subscrtption for $125 and a third option of a combined print and online subscription for the same price - $125. The print-only choice here is clearly a decoy, since it offers less than the print and online package for the same price, but Arily found that its mere presence substantially increased uptake of the combined subscription (rather than the digital only). Indeed, when only two options were available, readers were 53%  more likely to go for the much cheaper online-only option, compared to a choice involving a third decoy.
+
+The decoy effect may also be rife in sales of high-end goods. A recent paper from the University of British Columbia has documented the influence of the decoy effect on the diamond market, finding that the presence of slightly inferior, but equally ecpensive products can contribute more than 20% of the retailers' profits.
+
+Not everyone is equally susceptible to the decoy effect. In line with the research on other cognitive biases, the researchers have found that it depends on your thinking style. Questionnaires, for instance, can determine whether some people are more prone to listening to their gut feelings, or whether they are more analytical and prefer deliberative reasoning. (It is the more intuitive thinkers who are most likely to be swayed by a decoy.)
+
+Interestingly, hormones can play a part in that: higher levels of testosterone, for instance, tend to make people more impulsive, which means thet are more susceptible to the decoy men as the "rational sex" is completely unfounded). The decoy effect is also prevalent in group decision making - we can't rely on others to debias our thinking.
+
+Besides identifying who is more or less vulnerable, scientists have also explored the decoy effect in different circumstances, besides consumer decisions. Ariely, for instance, has found that it might be present in dating, According to his research, we tend to fancy someone more if they appear alongside a "decoy" who is similar looking, but slightly less attractive. That's worth remembering if you are flicking through profile on Tinder - your perceptions of someone's attractiveness depend on who came before or after.
 
 
 
